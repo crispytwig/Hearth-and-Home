@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "another_furniture",
+  "version": "${version}",
+  "name": "Another Furniture",
+  "description": "Decorating your home just got better! Another Furniture adds various furniture, with the goal of staying vanilla-styled and consistently sized, keeping normal blocks and player sizes in mind.",
+  "authors": [
+    "Starfish Studios"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/another-furniture",
+    "issues": "https://github.com/starfish-studios/AnotherFurniture/issues"
+  },
+  "license": "MIT",
+  "icon": "icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.starfish_studios.delightful_decor.fabric.DelightfulDecorFabric"
+    ],
+    "client": [
+      "com.starfish_studios.delightful_decor.fabric.DelightfulDecorFabricClient"
+    ]
+  },
+  "mixins": [
+    "delightful_decor.mixins.json",
+    "delightful_decor-common.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "minecraft": ">=1.19.2"
+  }
+}

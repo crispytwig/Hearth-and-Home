@@ -1,0 +1,7 @@
+{
+    "parent": "delightful_decor:block/template/wreath",
+    "textures": {
+        "1": "delightful_decor:block/wreath/magenta",
+        "particle": "delightful_decor:block/wreath/magenta"
+    }
+}

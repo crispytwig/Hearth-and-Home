@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "candles=1": {
+      "model": "delightful_decor:block/small_shit"
+    },
+    "candles=2": {
+      "model": "delightful_decor:block/medium_shit"
+    },
+    "candles=3": {
+      "model": "delightful_decor:block/large_shit"
+    }
+  }
+}

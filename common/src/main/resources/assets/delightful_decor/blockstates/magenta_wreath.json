@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "delightful_decor:block/wreath/magenta"
+        },
+        "facing=east": {
+            "model": "delightful_decor:block/wreath/magenta",
+            "y": 90
+        },
+        "facing=south": {
+            "model": "delightful_decor:block/wreath/magenta",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "delightful_decor:block/wreath/magenta",
+            "y": 270
+        }
+    }
+}

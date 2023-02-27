@@ -1,0 +1,7 @@
+{
+    "parent": "delightful_decor:block/template/stocking",
+    "textures": {
+        "1": "delightful_decor:block/stocking/cyan",
+        "particle": "delightful_decor:block/stocking/cyan"
+    }
+}

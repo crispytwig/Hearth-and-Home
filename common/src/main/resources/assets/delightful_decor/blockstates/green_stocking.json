@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "delightful_decor:block/stocking/green"
+        },
+        "facing=east": {
+            "model": "delightful_decor:block/stocking/green",
+            "y": 90
+        },
+        "facing=south": {
+            "model": "delightful_decor:block/stocking/green",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "delightful_decor:block/stocking/green",
+            "y": 270
+        }
+    }
+}
